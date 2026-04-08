@@ -5,9 +5,6 @@ import {
   ArrowUpRight, 
   Phone,
   Mail,
-  Zap,
-  Globe,
-  Layers,
   Sparkles
 } from 'lucide-react';
 import { motion } from 'framer-motion';

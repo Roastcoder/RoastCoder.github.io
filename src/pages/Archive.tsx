@@ -1,4 +1,3 @@
-import React from 'react';
 import { Sparkles } from 'lucide-react';
 import { ProjectCard } from '../components';
 import { archiveProjects } from '../data/projects';

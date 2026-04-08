@@ -1,4 +1,3 @@
-import React from 'react';
 import { Layers, Shield, Zap, Monitor } from 'lucide-react';
 import { Hero, FeatureCard, ProjectCard } from '../components';
 import { ecosystemProjects } from '../data/projects';
